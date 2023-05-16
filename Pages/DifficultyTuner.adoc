@@ -16,7 +16,7 @@ Set how many items are needed as ingredients and/or the productivity per recipe.
 WARNING: Setting these values too high will prevent machines from producing anything because the stack limit is less than the expected output.
 
 === Fuel Energy Values
-
+0.5
 Changing this affects how long the fuel will burn in a machine per fuel item i.e. 2.0 will make it burn for twice as long.
 
 === Control Workbench Behavior
